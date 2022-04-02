@@ -797,9 +797,13 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Reddit-NLP](https://www.reddit.com/r/LanguageTechnology/)
+- [Reddit-Deep Learning](https://www.reddit.com/r/deeplearning/)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
-
+- [Research Papers on Data Science Algorithms and Community Detection Algorithms](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [Machine Learning Algorithms Tutorials](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+- [TWIML Community](https://twimlai.com/community/)
